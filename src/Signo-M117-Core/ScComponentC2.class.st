@@ -27,6 +27,7 @@ ScComponentC2 >> reactToComplementaria: anAnnouncement [
 
 { #category : #rendering }
 ScComponentC2 >> renderContentOn: html [
+	"Renderización del componente C1"
 	html tbsPanel beDefault
 		with: [ html tbsPanelHeading: 'Componente C2'.
 			html
