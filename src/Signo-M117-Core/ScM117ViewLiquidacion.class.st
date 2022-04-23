@@ -1,3 +1,6 @@
+"
+Ejemplo de modelo de liquidacion del 117
+"
 Class {
 	#name : #ScM117ViewLiquidacion,
 	#superclass : #WAComponent,
